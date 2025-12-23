@@ -4,6 +4,8 @@ github.com/JustSkiv/protos v0.0.14 h1:XxIpYO26Va2Q3DKVitTSuqbcbgMnuvkkj29RT3jsn4
 github.com/JustSkiv/protos v0.0.14/go.mod h1:/OZimabwCueere9/bpTcKf8rvsSiqQZ0/MQ7YlHuKQE=
 github.com/brianvoe/gofakeit/v6 v6.23.2 h1:lVde18uhad5wII/f5RMVFLtdQNE0HaGFuBUXmYKk8i8=
 github.com/brianvoe/gofakeit/v6 v6.23.2/go.mod h1:Ow6qC71xtwm79anlwKRlWZW6zVq9D2XHE4QSSMP/rU8=
+github.com/casualdoto/protos v0.1.1 h1:DQlrO+NaRryAj/9vKlg95nKcj/3WtJwxPtSqGpRSvw0=
+github.com/casualdoto/protos v0.1.1/go.mod h1:PuXqYqa5DnYwziRs85ONTF7vNIBPILM3vJzF+8EbXHU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
